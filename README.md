@@ -1,5 +1,3 @@
-# bat-inspired-flight-simulation
-Physics-based simulation of bat-inspired flapping flight using Python and PyBullet
 # Bat-Inspired Flapping Wing Simulation
 
 This repository contains the code and documentation for my Honors Project on
